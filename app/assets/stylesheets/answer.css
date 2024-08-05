@@ -1,0 +1,13 @@
+.question {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.answer {
+  background-color: #FFFFE1;
+  font-size: 20px;
+}
+
+.coach_answer {
+  font-weight: bold;
+}
